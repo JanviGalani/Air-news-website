@@ -1,7 +1,7 @@
  {
- "name": "Shoppers Mart", 
- "short_name": "Shoppers Mart", 
- "description": "PWA for Ecommerce Website", 
+ "name": "Air News Webiste", 
+ "short_name": "Air News Webiste", 
+ "description": "PWA for Air News Webiste", 
  "start_url": "index.html", 
  "display": "standalone", 
  "scope": "./", 
